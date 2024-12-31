@@ -1,0 +1,16 @@
+export const contactForm = {
+	id: 'discover',
+	lightBg: true,
+	lightText: false,
+	lightTextDesc: false,
+	topLine: 'About Us',
+	headline: 'Tradiheal Foods Centre',
+	description: 'Our "Tradition Heals". Yes, the food that our ancestors had consumed in the past was not just healthy, but it had healing properties as well. Today, the food we eat has become the storehouse of many residual elements. The pesticides, preservatives, chemical fertilizers leave a trail of terrific residues in the food we consume. The food we eat, is comparatively cheaper than the huge medical expenses we incur. What goes inside the pot, is cheaper than what goes around it - yes. In the pretext of producing more food, we have polluted it a great deal. We have lost the much needed nutrients in our food. Lets remember the good old saying "உணவே மருந்து". This deep rooted traditional belief holds good even today. Wouldnt we love to go back to those golden days, when our ancestors did not have to pay such huge amounts of medical bills? At Tradiheal Foods Centre (TFC), we believe that traditional food, the spice and rice varieties, cultivated on the hilly terrains and vast plains of peninsular India still holds the miraculous power to heal / restore our health. Therefore, we sincerely attempt to restore tradition through the foods we eat. Traditional food not just healthifies us, but it heals us too!',
+	buttonLabel: "Click Here To See Our Products",
+	imgStart: false,
+	img: require('../../images/company-logo.png').default,
+	alt: 'Planet',
+	dark: false,
+	primary: false,
+	darkText: true,
+}
